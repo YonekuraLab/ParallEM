@@ -1,2 +1,2 @@
-![Top](CRYOEMYonekuraLab.png)
+![Top](ParallEM.png)
 # ParallEM
