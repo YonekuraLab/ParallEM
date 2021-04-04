@@ -26,8 +26,7 @@ Citations and usage<BR>
  &nbsp; The goniometer runs at 0.000841043 degree / pulse (for CRYO ARM and standard machine) or at 0.000252313 degree / pulse (special).<BR>
  &nbsp; You can check this value with JEOL Goniotools.<BR>
  &nbsp; Rotation shows the rotation speed as 0.000252313 * 1kHz * f, where f = 1, 2, 3, ... 12 for your reference.<BR>
- &nbsp; You can calculate the actual speed based on your gonio spec. in degree / pulse.<BR>
   ChkLensDef<BR>
- &nbsp; You can change default values for lenses and deflector coils in C:\ProgramData\ParallEM\chkLensRegistered.dat.<BR>
+ &nbsp; Default values for lenses and deflector coils are defined in C:\ProgramData\ParallEM\chkLensRegistered.dat.<BR>
 
  
