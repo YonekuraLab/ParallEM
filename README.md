@@ -3,11 +3,11 @@
 # Running parallel to other EM operating programs
 GUI programs for controlling and monitoring the JEOL electron microscope through TEM External functional calls<BR>
 Developed by Koji Yonekura<BR>
-  ChkLensDef<BR>
-  SamplePositioner (4k)<BR>
-  SetDiff (CryoARM300)<BR>
-  Rotation (CryoARM300)<BR>
-  Flashing<BR>
+  &nbsp; ChkLensDef<BR>
+  &nbsp; SamplePositioner (and 4k)<BR>
+  &nbsp; SetDiff (and CryoARM300)<BR>
+  &nbsp; Rotation (and CryoARM300)<BR>
+  &nbsp; Flashing<BR>
   
 Citations and usage<BR>
   https://doi.org/10.1016/j.jsb.2019.03.009<BR>
