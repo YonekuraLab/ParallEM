@@ -1,20 +1,14 @@
 ![Top](ParallEM.png)
 # ParallEM
 ## Running parallel to other EM operating programs
-###### GUI programs for controlling and monitoring the JEOL electron microscope through TEM External functional calls<BR>
+### GUI programs for controlling and monitoring the JEOL electron microscope through TEM External functional calls<BR>
 Developed by Koji Yonekura<BR>
-  Comprise
-  
-  &nbsp; ChkLensDef
-  
-  &nbsp; SamplePositioner (and 4k)
-  
-  &nbsp; SetDiff (and CryoARM300)
-  
-  &nbsp; Rotation (and CryoARM300)
-  
-  &nbsp; Flashing
-  
+  Comprise<BR>
+  &nbsp; ChkLensDef<BR>
+  &nbsp; SamplePositioner (and 4k)<BR>
+  &nbsp; SetDiff (and CryoARM300)<BR>
+  &nbsp; Rotation (and CryoARM300)<BR>
+  &nbsp; Flashing<BR>  
   
 Citations and usage<BR>
   &nbsp; https://doi.org/10.1016/j.jsb.2019.03.009<BR>
@@ -33,7 +27,8 @@ Citations and usage<BR>
  * The goniometer runs at 0.000841043 degree / pulse (for CRYO ARM and standard machine) or at 0.000252313 degree / pulse (special).<BR>
  * You can check this value with JEOL Goniotools.<BR>
  * Rotation shows the rotation speed as 0.000252313 * 1kHz * f, where f = 1, 2, 3, ... 12 for your reference.<BR>
- ChkLensDef<BR>
+
+　ChkLensDef<BR>
  - Default values for lenses and deflector coils are defined in C:\ProgramData\ParallEM\chkLensRegistered.dat.<BR>
 
  
