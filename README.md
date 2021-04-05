@@ -1,9 +1,11 @@
 ![Top](ParallEM.png)
 # ParallEM
-# Running parallel to other EM operating programs
-GUI programs for controlling and monitoring the JEOL electron microscope through TEM External functional calls<BR>
+## Running parallel to other EM operating programs
+###### GUI programs for controlling and monitoring the JEOL electron microscope through TEM External functional calls<BR>
 Developed by Koji Yonekura<BR>
   &nbsp; ChkLensDef<BR>
+
+
   &nbsp; SamplePositioner (and 4k)<BR>
   &nbsp; SetDiff (and CryoARM300)<BR>
   &nbsp; Rotation (and CryoARM300)<BR>
