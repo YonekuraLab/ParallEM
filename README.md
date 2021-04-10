@@ -17,7 +17,7 @@ Developed by Koji Yonekura<BR>
   &nbsp; https://doi.org/10.3389/fmolb.2020.612226<BR>
 #### Installation
   &nbsp;&nbsp;1. Run ParallEM*.msi<BR>
-  &nbsp;&nbsp;3. Run Install.bat or InstallCRYOARM.bat in C:\Program Files\ParallEM\ParallEM1.5 as Administrator<BR>
+  &nbsp;&nbsp;2. Run Install.bat or InstallCRYOARM.bat in C:\Program Files\ParallEM\ParallEM1.5 as Administrator<BR>
 #### Notes
 - ChkLensDef
   - Default values for lenses and deflector coils can be defined in C:\ProgramData\ParallEM\chkLensRegistered.dat.
