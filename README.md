@@ -9,7 +9,7 @@ Developed by Koji Yonekura<BR>
   &nbsp; SetDiff (and CryoARM300)<BR>
   &nbsp; Rotation (and CryoARM300)<BR>
   &nbsp; Flashing<BR>  
-#### Citations and usage
+#### References and usage
   &nbsp; https://doi.org/10.1016/j.jsb.2019.03.009<BR>
   &nbsp; https://doi.org/10.1016/j.jsb.2019.04.011<BR>
   &nbsp; https://doi.org/10.1016/j.jsb.2020.107549<BR>
