@@ -22,9 +22,10 @@ Developed by Koji Yonekura<BR>
 - ChkLensDef
   - Default values for lenses and deflector coils can be defined in C:\ProgramData\ParallEM\chkLensRegistered.dat.
 - Rotation
-  * The goniometer runs at 0.000841043 degree / pulse (for CRYO ARM and standard machine) or at 0.000252313 degree / pulse (special).
+  * The goniometer runs at 0.000841043 degree / pulse (for CRYO ARM and standard machine) or at 0.000252313 degree / pulse (a special slower gonio).
   * You can check this value with JEOL Goniotools.
   * Rotation shows the rotation speed as 0.000252313 * 1kHz * f, where f = 1, 2, 3, ... 12 for your reference.
+  * The goniometer in some machines only supports stepwise tilt with a constant speed. If so, you may ask JEOL to change the gonio system.
 
 
  
